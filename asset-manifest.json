@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mern-team-manager/static/css/main.553adb48.chunk.css",
+    "main.js": "/mern-team-manager/static/js/main.7ed62046.chunk.js",
+    "main.js.map": "/mern-team-manager/static/js/main.7ed62046.chunk.js.map",
+    "runtime-main.js": "/mern-team-manager/static/js/runtime-main.cd7deb3b.js",
+    "runtime-main.js.map": "/mern-team-manager/static/js/runtime-main.cd7deb3b.js.map",
+    "static/css/2.48372909.chunk.css": "/mern-team-manager/static/css/2.48372909.chunk.css",
+    "static/js/2.c6bd5315.chunk.js": "/mern-team-manager/static/js/2.c6bd5315.chunk.js",
+    "static/js/2.c6bd5315.chunk.js.map": "/mern-team-manager/static/js/2.c6bd5315.chunk.js.map",
+    "static/js/3.0d97e5fe.chunk.js": "/mern-team-manager/static/js/3.0d97e5fe.chunk.js",
+    "static/js/3.0d97e5fe.chunk.js.map": "/mern-team-manager/static/js/3.0d97e5fe.chunk.js.map",
+    "index.html": "/mern-team-manager/index.html",
+    "static/css/2.48372909.chunk.css.map": "/mern-team-manager/static/css/2.48372909.chunk.css.map",
+    "static/css/main.553adb48.chunk.css.map": "/mern-team-manager/static/css/main.553adb48.chunk.css.map",
+    "static/js/2.c6bd5315.chunk.js.LICENSE.txt": "/mern-team-manager/static/js/2.c6bd5315.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd7deb3b.js",
+    "static/css/2.48372909.chunk.css",
+    "static/js/2.c6bd5315.chunk.js",
+    "static/css/main.553adb48.chunk.css",
+    "static/js/main.7ed62046.chunk.js"
+  ]
+}
