@@ -1,5 +1,6 @@
 # mern-team-manager
 A web application for teams to manage tasks.
+[Link to the web application](https://icelenaugust.github.io/mern-team-manager/)
 
 <img width="1156" alt="team-manager" src="https://user-images.githubusercontent.com/66818697/120291463-e8983f80-c2f5-11eb-8bfc-4649c1ec2f63.png">
 
